@@ -1,0 +1,17 @@
+.masthead {
+    height: 1vh;
+    min-height: 250px;
+    /*background-image: url('https://source.unsplash.com/BtbjCFUvBXs/1920x1080');*/
+    /*background-size: cover;*/
+    /*background-position: center;*/
+    /*background-repeat: no-repeat;*/
+}
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    z-index: -1;
+}
+
